@@ -1,0 +1,6 @@
+{
+  "name": "NXT TV Offline",
+  "description": "Offline real-time TV and FM radio tuner with MHz frequency scanner, signal analyzer, DVR recording, and remote hardware interface support. Powered by MobiLabs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
